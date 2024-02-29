@@ -1,0 +1,43 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+    padding: 0;
+    background-color: lightblue;
+}
+
+header {
+    background-color: lightcyan;
+    color: darkolivegreen;
+    padding: 1em;
+    text-align: center;
+    text-decoration: solid;
+}
+
+nav {
+    background-color: lightblue;
+    padding: 0.5em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+nav a {
+    color: saddlebrown;
+    text-decoration: wavy;
+    padding: 1em;
+    margin: auto;
+}
+
+section {
+    padding: 1em;
+    text-decoration-color: coral;
+}
+
+footer {
+    background-color: brown;
+    color: darkkhaki;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: auto;
+    width: 100%;
+}
